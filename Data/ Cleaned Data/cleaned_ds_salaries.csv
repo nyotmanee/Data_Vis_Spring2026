@@ -1,0 +1,589 @@
+work_year,experience_level,employment_type,job_title,salary_in_usd,work_setting,company_location,company_size
+2020,Mid,FT,Data Scientist,79833,In-person,Germany,L
+2020,Senior,FT,Machine Learning Scientist,260000,In-person,Japan,S
+2020,Senior,FT,Big Data Engineer,109024,Hybrid,United Kingdom,M
+2020,Mid,FT,Product Data Analyst,20000,In-person,Honduras,S
+2020,Senior,FT,Machine Learning Engineer,150000,Hybrid,United States,L
+2020,Entry,FT,Data Analyst,72000,Remote,United States,L
+2020,Senior,FT,Lead Data Scientist,190000,Remote,United States,S
+2020,Mid,FT,Data Scientist,35735,Hybrid,Hungary,L
+2020,Mid,FT,Business Data Analyst,135000,Remote,United States,L
+2020,Senior,FT,Lead Data Engineer,125000,Hybrid,New Zealand,S
+2020,Entry,FT,Data Scientist,51321,In-person,France,S
+2020,Mid,FT,Data Scientist,40481,In-person,India,L
+2020,Entry,FT,Data Scientist,39916,In-person,France,M
+2020,Mid,FT,Lead Data Analyst,87000,Remote,United States,L
+2020,Mid,FT,Data Analyst,85000,Remote,United States,L
+2020,Mid,FT,Data Analyst,8000,Hybrid,Pakistan,L
+2020,Entry,FT,Data Engineer,41689,Remote,Japan,S
+2020,Senior,FT,Big Data Engineer,114047,Remote,United Kingdom,S
+2020,Entry,FT,Data Science Consultant,5707,Hybrid,India,M
+2020,Mid,FT,Lead Data Engineer,56000,Remote,United States,M
+2020,Mid,FT,Machine Learning Engineer,43331,In-person,China,M
+2020,Mid,FT,Product Data Analyst,6072,Remote,India,L
+2020,Senior,FT,Data Engineer,47899,Hybrid,Greece,L
+2020,Mid,FT,BI Data Analyst,98000,In-person,United States,M
+2020,Mid,FT,Lead Data Scientist,115000,In-person,United Arab Emirates,L
+2020,Executive,FT,Director of Data Science,325000,Remote,United States,L
+2020,Entry,FT,Research Scientist,42000,Hybrid,Netherlands,L
+2020,Senior,FT,Data Engineer,33511,In-person,Mexico,S
+2020,Senior,FT,Machine Learning Manager,117104,Hybrid,Canada,L
+2020,Mid,FT,Data Engineering Manager,59303,Remote,Germany,S
+2020,Entry,FT,Big Data Engineer,70000,Remote,United States,L
+2020,Senior,FT,Data Scientist,68428,Remote,United States,L
+2020,Mid,FT,Research Scientist,450000,In-person,United States,M
+2020,Mid,FT,Data Analyst,46759,Hybrid,France,L
+2020,Mid,FT,Data Engineer,74130,Hybrid,Austria,L
+2020,Mid,FT,Data Science Consultant,103000,Remote,United States,L
+2020,Entry,FT,Machine Learning Engineer,250000,Hybrid,United States,L
+2020,Entry,FT,Data Analyst,10000,Remote,Nigeria,S
+2020,Entry,FT,Machine Learning Engineer,138000,Remote,United States,S
+2020,Mid,FT,Data Scientist,45760,Remote,United States,S
+2020,Executive,FT,Data Engineering Manager,79833,Hybrid,Spain,L
+2020,Mid,FT,Machine Learning Infrastructure Engineer,50180,In-person,Portugal,M
+2020,Mid,FT,Data Engineer,106000,Remote,United States,L
+2020,Mid,FT,Data Engineer,112872,Hybrid,United Kingdom,L
+2020,Mid,FT,Data Scientist,76958,Remote,United Kingdom,S
+2020,Senior,FT,Data Engineer,188000,Remote,United States,L
+2020,Mid,FT,Data Scientist,105000,Remote,United States,L
+2020,Mid,FT,Data Engineer,70139,Hybrid,France,L
+2020,Entry,FT,Data Analyst,6072,In-person,India,S
+2020,Entry,FT,Data Analyst,91000,Remote,United States,L
+2020,Entry,FT,AI Scientist,45896,Hybrid,Denmark,S
+2020,Entry,FT,Data Engineer,54742,Remote,Germany,L
+2020,Senior,FT,Principal Data Scientist,148261,Remote,Germany,M
+2020,Mid,FT,Data Scientist,38776,Remote,Spain,M
+2020,Mid,FT,Data Scientist,118000,Remote,United States,M
+2020,Senior,FT,Data Scientist,120000,Hybrid,United States,L
+2020,Mid,FT,Data Scientist,138350,Remote,United States,M
+2020,Mid,FT,Data Engineer,110000,Remote,United States,L
+2020,Mid,FT,Data Engineer,130800,Remote,United States,M
+2020,Senior,FT,Data Scientist,412000,Remote,United States,L
+2020,Senior,FT,Machine Learning Engineer,45618,Remote,Croatia,S
+2020,Entry,FT,Data Scientist,62726,Hybrid,Germany,S
+2020,Entry,FT,Data Scientist,49268,In-person,Germany,S
+2020,Senior,FT,Data Science Manager,190200,Remote,United States,M
+2020,Entry,FT,Data Scientist,105000,Remote,United States,S
+2020,Senior,FT,Data Scientist,91237,In-person,Austria,S
+2020,Mid,FT,Data Scientist,62726,Hybrid,Luxembourg,S
+2020,Mid,FT,Data Scientist,42197,Hybrid,France,S
+2021,Entry,FT,Research Scientist,82528,Hybrid,United Kingdom,L
+2021,Executive,FT,BI Data Analyst,150000,Remote,United States,L
+2021,Executive,FT,Head of Data,235000,Remote,United States,L
+2021,Senior,FT,Data Scientist,53192,Hybrid,France,L
+2021,Mid,FT,BI Data Analyst,100000,Remote,United States,M
+2021,Entry,FT,Data Analyst,80000,Remote,United States,M
+2021,Senior,FT,Data Analytics Engineer,79197,Remote,Germany,L
+2021,Mid,FT,Data Engineer,140000,Remote,United States,L
+2021,Mid,FT,Applied Data Scientist,54238,Hybrid,Canada,L
+2021,Mid,FT,Machine Learning Engineer,47282,Remote,Spain,S
+2021,Executive,FT,Director of Data Science,153667,Remote,Poland,L
+2021,Mid,FT,Data Engineer,28476,Remote,Poland,L
+2021,Entry,FT,Data Analyst,59102,Hybrid,France,M
+2021,Mid,FT,Data Analytics Engineer,110000,Remote,United States,L
+2021,Senior,FT,Lead Data Analyst,170000,Remote,United States,L
+2021,Senior,FT,Data Analyst,80000,Remote,United States,S
+2021,Senior,FT,Marketing Data Analyst,88654,Remote,Denmark,L
+2021,Entry,FT,Data Science Consultant,76833,Remote,Germany,S
+2021,Mid,FT,Lead Data Analyst,19609,Remote,India,L
+2021,Senior,FT,Lead Data Engineer,276000,In-person,United States,L
+2021,Entry,FT,Data Scientist,29751,Hybrid,India,L
+2021,Mid,FT,Cloud Data Engineer,89294,Hybrid,Singapore,L
+2021,Mid,FT,Financial Data Analyst,450000,Remote,United States,L
+2021,Entry,FT,Computer Vision Software Engineer,70000,Remote,United States,M
+2021,Mid,FT,Computer Vision Software Engineer,95746,Remote,United States,S
+2021,Mid,FT,Data Analyst,75000,In-person,United States,L
+2021,Senior,FT,Data Engineer,150000,Remote,United States,L
+2021,Mid,FT,BI Data Analyst,36259,Hybrid,United States,L
+2021,Mid,FT,Data Analyst,62000,In-person,United States,L
+2021,Mid,FT,Data Scientist,73000,In-person,United States,L
+2021,Mid,FT,Data Analyst,51519,Hybrid,United Kingdom,L
+2021,Mid,FT,Research Scientist,187442,Remote,Canada,L
+2021,Senior,FT,Data Engineer,115000,Remote,United States,S
+2021,Senior,FT,Data Engineer,150000,Remote,United States,M
+2021,Entry,FT,Data Engineer,30428,Remote,India,L
+2021,Senior,FT,Machine Learning Engineer,94564,Hybrid,Germany,L
+2021,Senior,FT,Director of Data Engineering,113476,Remote,United Kingdom,M
+2021,Senior,FT,Lead Data Engineer,103160,Remote,United Kingdom,S
+2021,Mid,FT,Data Engineer,45391,Remote,Netherlands,L
+2021,Entry,FT,Machine Learning Scientist,225000,Remote,United States,L
+2021,Mid,FT,Data Scientist,50000,Remote,Nigeria,L
+2021,Mid,FT,Data Science Engineer,40189,Remote,Greece,M
+2021,Entry,FT,Data Analyst,90000,Remote,United States,S
+2021,Mid,FT,Data Engineer,200000,Remote,United States,L
+2021,Mid,FT,Big Data Engineer,60000,Hybrid,Romania,M
+2021,Senior,FT,Principal Data Engineer,200000,Remote,United States,M
+2021,Entry,FT,Data Analyst,50000,Remote,United States,M
+2021,Entry,FT,Applied Data Scientist,110037,In-person,United Kingdom,L
+2021,Mid,FT,Principal Data Scientist,151000,Remote,United States,L
+2021,Senior,FT,Machine Learning Scientist,120000,Hybrid,United States,S
+2021,Mid,FT,Data Scientist,9466,In-person,India,S
+2021,Entry,FT,Machine Learning Engineer,20000,Remote,India,S
+2021,Senior,FT,Lead Data Scientist,40570,Hybrid,India,L
+2021,Entry,FT,Machine Learning Developer,100000,Hybrid,Iraq,S
+2021,Entry,FT,Data Scientist,49646,Hybrid,France,M
+2021,Mid,FT,Applied Machine Learning Scientist,38400,Remote,United States,M
+2021,Senior,FT,Computer Vision Engineer,24000,Remote,Brazil,M
+2021,Entry,FT,Data Scientist,100000,In-person,United States,S
+2021,Mid,FT,Data Analyst,90000,Remote,United States,M
+2021,Mid,FT,ML Engineer,63711,Hybrid,Japan,S
+2021,Mid,FT,ML Engineer,77364,Hybrid,Japan,S
+2021,Senior,FT,Principal Data Scientist,220000,In-person,United States,L
+2021,Entry,FT,Data Scientist,80000,Remote,United States,M
+2021,Mid,FT,Data Analyst,135000,Remote,United States,L
+2021,Senior,FT,Data Science Manager,240000,In-person,United States,L
+2021,Senior,FT,Data Engineering Manager,150000,In-person,United States,L
+2021,Mid,FT,Data Scientist,82500,Remote,United States,S
+2021,Mid,FT,Data Engineer,100000,Remote,United States,L
+2021,Senior,FT,Machine Learning Engineer,82744,Hybrid,Belgium,M
+2021,Mid,FT,Research Scientist,62649,Hybrid,France,M
+2021,Mid,FT,Data Engineer,90000,Remote,United States,L
+2021,Senior,FT,Data Engineering Manager,153000,Remote,United States,L
+2021,Senior,FT,Cloud Data Engineer,160000,Remote,United States,S
+2021,Senior,FT,Director of Data Science,168000,In-person,Japan,S
+2021,Mid,FT,Data Scientist,150000,Remote,United States,M
+2021,Mid,FT,Data Scientist,75774,Remote,Canada,L
+2021,Entry,FT,Data Scientist,13400,Remote,Ukraine,L
+2021,Senior,FT,Data Science Manager,144000,Remote,United States,L
+2021,Senior,FT,Data Science Engineer,127221,Hybrid,Canada,L
+2021,Mid,FT,Data Scientist,119059,Remote,Israel,M
+2021,Mid,FT,Applied Machine Learning Scientist,423000,Hybrid,United States,L
+2021,Senior,FT,Data Analytics Manager,120000,Remote,United States,M
+2021,Entry,FT,Machine Learning Engineer,125000,Remote,United States,S
+2021,Executive,FT,Head of Data,230000,Hybrid,Russia,L
+2021,Executive,FT,Head of Data Science,85000,In-person,Russia,M
+2021,Mid,FT,Data Engineer,28369,Hybrid,Malta,L
+2021,Entry,FT,Data Science Consultant,63831,Hybrid,Germany,L
+2021,Executive,FT,Director of Data Science,130026,Hybrid,Germany,M
+2021,Senior,FT,Data Specialist,165000,Remote,United States,L
+2021,Entry,FT,Data Engineer,80000,Remote,United States,L
+2021,Executive,FT,Director of Data Science,250000,In-person,United States,L
+2021,Entry,FT,BI Data Analyst,55000,Hybrid,United States,S
+2021,Mid,FT,Data Architect,150000,Remote,United States,L
+2021,Mid,FT,Data Architect,170000,Remote,United States,L
+2021,Mid,FT,Data Engineer,82528,Remote,United Kingdom,L
+2021,Entry,FT,Data Analyst,60000,Remote,United States,S
+2021,Senior,FT,Principal Data Scientist,235000,Remote,United States,L
+2021,Senior,FT,Research Scientist,60757,Hybrid,Portugal,L
+2021,Senior,FT,Data Engineering Manager,174000,Remote,United States,L
+2021,Mid,FT,Data Scientist,2859,In-person,Mexico,S
+2021,Mid,FT,Data Scientist,40038,Remote,Chile,L
+2021,Entry,FT,Machine Learning Engineer,81000,Hybrid,United States,S
+2021,Mid,FT,Data Scientist,5679,Remote,United States,S
+2021,Mid,FT,Big Data Engineer,22611,In-person,India,L
+2021,Mid,FT,Data Scientist,90734,Hybrid,Germany,L
+2021,Mid,FT,Data Engineer,26005,In-person,United States,L
+2021,Senior,FT,Finance Data Analyst,61896,Hybrid,United Kingdom,L
+2021,Mid,FT,Data Engineer,4000,Remote,Iran,M
+2021,Senior,FT,Data Analytics Engineer,50000,Remote,United Kingdom,M
+2021,Executive,FT,Data Science Consultant,69741,Remote,Spain,S
+2021,Senior,FT,Data Engineer,76833,Hybrid,United Kingdom,S
+2021,Mid,FT,Machine Learning Engineer,74000,Hybrid,Japan,S
+2021,Senior,FT,Data Science Manager,152000,Remote,France,L
+2021,Entry,FT,Machine Learning Engineer,21844,Hybrid,Colombia,M
+2021,Mid,FT,Big Data Engineer,18000,In-person,Moldova,S
+2021,Senior,FT,Data Science Manager,174000,Remote,United States,L
+2021,Senior,FT,Research Scientist,96113,Hybrid,Canada,L
+2021,Mid,FT,Data Scientist,147000,Hybrid,United States,L
+2021,Entry,FT,BI Data Analyst,9272,Remote,Kenya,S
+2021,Senior,FT,Machine Learning Engineer,24342,Remote,India,L
+2021,Senior,FT,Data Science Manager,54094,Hybrid,United States,L
+2021,Entry,FT,Data Science Consultant,90000,Remote,United States,S
+2021,Mid,FT,Data Scientist,61467,Hybrid,Austria,M
+2021,Senior,FT,Machine Learning Infrastructure Engineer,195000,Remote,United States,M
+2021,Mid,FT,Data Scientist,37825,Remote,Spain,L
+2021,Senior,FT,Research Scientist,50000,Remote,United States,S
+2021,Mid,FT,Data Scientist,160000,Remote,United States,L
+2021,Mid,FT,Data Scientist,12901,In-person,Brazil,S
+2021,Senior,FT,Machine Learning Engineer,200000,Remote,United States,L
+2021,Senior,FT,Data Engineer,165000,In-person,United States,M
+2021,Senior,FT,Data Analytics Manager,120000,In-person,United States,L
+2021,Mid,FT,Machine Learning Engineer,24823,Hybrid,Slovenia,L
+2021,Mid,FT,Research Scientist,56738,Hybrid,France,S
+2021,Mid,FT,Data Engineer,66022,Hybrid,United Kingdom,S
+2021,Entry,FT,Big Data Engineer,5882,In-person,Switzerland,L
+2021,Entry,FT,Machine Learning Engineer,24823,Hybrid,Germany,M
+2021,Senior,FT,Principal Data Engineer,185000,Remote,United States,L
+2021,Mid,FT,Data Scientist,90734,Hybrid,Germany,L
+2021,Mid,FT,Machine Learning Engineer,88654,Remote,Belgium,M
+2021,Senior,FT,Data Analytics Manager,140000,Remote,United States,L
+2021,Mid,FT,Machine Learning Engineer,46597,Remote,Poland,L
+2021,Mid,FT,Data Scientist,116914,Hybrid,United Kingdom,L
+2021,Mid,FT,Data Scientist,33808,In-person,India,M
+2021,Mid,FT,Data Scientist,56256,Hybrid,United Kingdom,L
+2021,Senior,FT,Machine Learning Scientist,225000,Remote,Canada,L
+2021,Senior,FT,Data Scientist,87738,Remote,Canada,S
+2021,Mid,FT,Data Scientist,88654,Hybrid,Germany,L
+2021,Senior,FT,Data Scientist,135000,In-person,United States,L
+2021,Senior,FT,Data Analyst,71786,Remote,Canada,M
+2021,Entry,FT,Big Data Engineer,16228,Remote,India,L
+2021,Senior,FT,ML Engineer,256000,Remote,United States,S
+2021,Senior,FT,Director of Data Engineering,200000,Remote,United States,L
+2021,Senior,FT,Data Analyst,200000,Remote,United States,L
+2021,Mid,FT,Data Architect,180000,Remote,United States,L
+2021,Mid,FT,Head of Data Science,110000,In-person,United States,S
+2021,Mid,FT,Research Scientist,63810,Remote,Canada,M
+2021,Mid,FT,Data Scientist,46809,Remote,Spain,M
+2021,Entry,FT,Data Scientist,4000,In-person,Vietnam,M
+2021,Entry,FT,Data Engineer,21637,Hybrid,India,M
+2021,Senior,FT,Data Scientist,103691,Remote,Canada,L
+2021,Mid,FT,Data Analyst,80000,Remote,United States,L
+2021,Mid,FT,Data Engineer,110000,Remote,United States,L
+2021,Senior,FT,Data Scientist,165000,Remote,United States,L
+2021,Entry,FT,AI Scientist,18053,Remote,American Samoa,S
+2021,Mid,FT,Data Engineer,72212,Hybrid,United Kingdom,L
+2021,Entry,FT,Data Scientist,36643,Hybrid,France,L
+2021,Mid,FT,Data Engineer,12103,In-person,Turkey,M
+2021,Senior,FT,Data Engineer,96282,Hybrid,United Kingdom,L
+2021,Senior,FT,Principal Data Analyst,170000,Remote,United States,M
+2021,Mid,FT,Data Scientist,115000,Hybrid,United States,L
+2021,Entry,FT,Data Scientist,90000,Remote,United States,S
+2021,Executive,FT,Principal Data Engineer,600000,Remote,United States,L
+2021,Entry,FT,Data Scientist,28399,Remote,India,M
+2021,Mid,FT,Data Analyst,93000,Remote,United States,L
+2021,Senior,FT,Big Data Architect,99703,Hybrid,Canada,M
+2021,Mid,FT,Data Engineer,200000,Remote,United States,L
+2021,Senior,FT,Principal Data Scientist,173762,Remote,Germany,M
+2021,Senior,FT,Machine Learning Engineer,185000,Hybrid,United States,L
+2021,Executive,FT,Director of Data Science,141846,In-person,Germany,L
+2021,Mid,FT,Data Scientist,130000,Hybrid,United States,L
+2021,Senior,FT,Data Analyst,63831,Hybrid,Germany,L
+2021,Mid,FT,Data Scientist,16904,Remote,India,S
+2021,Senior,FT,Machine Learning Engineer,66265,In-person,India,L
+2021,Mid,FT,Data Scientist,25532,Remote,Germany,S
+2021,Senior,FT,Lead Data Engineer,160000,Hybrid,United States,S
+2021,Mid,FT,Data Engineer,93150,In-person,United States,M
+2021,Mid,FT,Data Engineer,111775,In-person,United States,M
+2021,Mid,FT,Data Engineer,28016,Remote,Turkey,M
+2021,Entry,FT,Data Engineer,65013,Hybrid,Germany,M
+2021,Entry,FT,Data Engineer,72500,Remote,United States,L
+2021,Senior,FT,Computer Vision Engineer,18907,In-person,Brazil,M
+2021,Entry,FT,Data Science Consultant,76833,In-person,Germany,L
+2021,Entry,FT,Machine Learning Engineer,85000,Remote,Germany,S
+2021,Senior,FT,Data Scientist,77684,Hybrid,France,M
+2021,Entry,FT,Data Scientist,100000,Remote,United States,M
+2021,Entry,FT,Data Scientist,58000,Hybrid,United States,L
+2021,Senior,FT,AI Scientist,55000,Remote,Spain,L
+2021,Senior,FT,Data Scientist,20171,Hybrid,Turkey,L
+2021,Entry,FT,Business Data Analyst,59102,Remote,Luxembourg,L
+2021,Mid,FT,Data Engineer,112000,Remote,United States,L
+2021,Entry,FT,Research Scientist,100000,In-person,China,L
+2021,Mid,FT,Research Scientist,69999,Hybrid,Czech Republic,L
+2021,Senior,FT,Data Science Manager,94665,Hybrid,India,L
+2021,Senior,FT,Head of Data,102839,Remote,Slovenia,L
+2021,Mid,FT,Data Scientist,109000,Hybrid,United States,L
+2021,Mid,FT,Machine Learning Engineer,51064,Hybrid,Italy,L
+2022,Senior,FT,Data Engineer,135000,Remote,United States,M
+2022,Senior,FT,Data Analyst,155000,Remote,United States,M
+2022,Senior,FT,Data Analyst,120600,Remote,United States,M
+2022,Mid,FT,Data Scientist,130000,In-person,United States,M
+2022,Mid,FT,Data Scientist,90000,In-person,United States,M
+2022,Mid,FT,Data Engineer,170000,Remote,United States,M
+2022,Mid,FT,Data Engineer,150000,Remote,United States,M
+2022,Senior,FT,Data Analyst,102100,Remote,United States,M
+2022,Senior,FT,Data Analyst,84900,Remote,United States,M
+2022,Senior,FT,Data Scientist,136620,Remote,United States,M
+2022,Senior,FT,Data Scientist,99360,Remote,United States,M
+2022,Senior,FT,Data Scientist,117789,In-person,United Kingdom,M
+2022,Senior,FT,Data Scientist,104702,In-person,United Kingdom,M
+2022,Senior,FT,Data Scientist,146000,Remote,United States,M
+2022,Senior,FT,Data Scientist,123000,Remote,United States,M
+2022,Entry,FT,Data Engineer,52351,Remote,United Kingdom,M
+2022,Senior,FT,Data Analyst,99000,In-person,United States,M
+2022,Senior,FT,Data Analyst,116000,In-person,United States,M
+2022,Mid,FT,Data Analyst,106260,In-person,United States,M
+2022,Mid,FT,Data Analyst,126500,In-person,United States,M
+2022,Executive,FT,Data Engineer,242000,Remote,United States,M
+2022,Executive,FT,Data Engineer,200000,Remote,United States,M
+2022,Mid,FT,Data Scientist,65438,In-person,United Kingdom,M
+2022,Mid,FT,Data Scientist,39263,In-person,United Kingdom,M
+2022,Mid,FT,Data Engineer,78526,In-person,United Kingdom,M
+2022,Mid,FT,Data Engineer,52351,In-person,United Kingdom,M
+2022,Senior,FT,Data Scientist,165220,Remote,United States,M
+2022,Entry,FT,Data Engineer,45807,Remote,United Kingdom,M
+2022,Senior,FT,Data Scientist,120160,Remote,United States,M
+2022,Senior,FT,Data Analyst,90320,Remote,United States,M
+2022,Senior,FT,Data Engineer,181940,In-person,United States,M
+2022,Senior,FT,Data Engineer,132320,In-person,United States,M
+2022,Senior,FT,Data Engineer,220110,In-person,United States,M
+2022,Senior,FT,Data Engineer,160080,In-person,United States,M
+2022,Senior,FT,Data Scientist,180000,In-person,United States,L
+2022,Senior,FT,Data Scientist,120000,In-person,United States,L
+2022,Senior,FT,Data Analyst,124190,Remote,United States,M
+2022,Executive,FT,Data Analyst,130000,Remote,United States,M
+2022,Executive,FT,Data Analyst,110000,Remote,United States,M
+2022,Senior,FT,Data Analyst,170000,Remote,United States,M
+2022,Mid,FT,Data Analyst,115500,Remote,United States,M
+2022,Senior,FT,Data Analyst,112900,Remote,United States,M
+2022,Senior,FT,Data Analyst,90320,Remote,United States,M
+2022,Senior,FT,Data Analyst,112900,Remote,United States,M
+2022,Senior,FT,Data Analyst,90320,Remote,United States,M
+2022,Senior,FT,Data Engineer,165400,Remote,United States,M
+2022,Senior,FT,Data Engineer,132320,Remote,United States,M
+2022,Mid,FT,Data Analyst,167000,Remote,United States,M
+2022,Senior,FT,Data Engineer,243900,Remote,United States,M
+2022,Senior,FT,Data Analyst,136600,Remote,United States,M
+2022,Senior,FT,Data Analyst,109280,Remote,United States,M
+2022,Senior,FT,Data Engineer,128875,Remote,United States,M
+2022,Senior,FT,Data Engineer,93700,Remote,United States,M
+2022,Executive,FT,Head of Data Science,224000,Remote,United States,M
+2022,Executive,FT,Head of Data Science,167875,Remote,United States,M
+2022,Executive,FT,Analytics Engineer,175000,Remote,United States,M
+2022,Senior,FT,Data Engineer,156600,Remote,United States,M
+2022,Senior,FT,Data Engineer,108800,In-person,United States,M
+2022,Senior,FT,Data Scientist,95550,In-person,United States,M
+2022,Senior,FT,Data Engineer,113000,In-person,United States,L
+2022,Senior,FT,Data Analyst,135000,Remote,United States,M
+2022,Senior,FT,Data Science Manager,161342,Remote,United States,M
+2022,Senior,FT,Data Science Manager,137141,Remote,United States,M
+2022,Senior,FT,Data Scientist,167000,Remote,United States,M
+2022,Senior,FT,Data Scientist,123000,Remote,United States,M
+2022,Senior,FT,Data Engineer,78526,In-person,United Kingdom,M
+2022,Senior,FT,Data Engineer,65438,In-person,United Kingdom,M
+2022,Senior,FT,Data Scientist,150000,In-person,United States,M
+2022,Senior,FT,Data Scientist,211500,Remote,United States,M
+2022,Senior,FT,Data Architect,192400,Remote,Canada,M
+2022,Senior,FT,Data Architect,90700,Remote,Canada,M
+2022,Senior,FT,Data Analyst,130000,Remote,Canada,M
+2022,Senior,FT,Data Analyst,61300,Remote,Canada,M
+2022,Senior,FT,Data Analyst,130000,Remote,Canada,M
+2022,Senior,FT,Data Analyst,61300,Remote,Canada,M
+2022,Senior,FT,Data Engineer,160000,In-person,United States,L
+2022,Senior,FT,Data Scientist,138600,Remote,United States,M
+2022,Senior,FT,Data Engineer,136000,In-person,United States,M
+2022,Mid,FT,Data Analyst,58000,In-person,United States,S
+2022,Executive,FT,Analytics Engineer,135000,Remote,United States,M
+2022,Senior,FT,Data Scientist,170000,Remote,United States,M
+2022,Senior,FT,Data Scientist,123000,Remote,United States,M
+2022,Senior,FT,Machine Learning Engineer,189650,In-person,United States,M
+2022,Senior,FT,Machine Learning Engineer,164996,In-person,United States,M
+2022,Mid,FT,ETL Developer,54957,In-person,Greece,M
+2022,Mid,FT,ETL Developer,54957,In-person,Greece,M
+2022,Executive,FT,Lead Data Engineer,118187,Remote,Canada,S
+2022,Senior,FT,Data Analyst,132000,In-person,United States,M
+2022,Senior,FT,Data Engineer,165400,Remote,United States,M
+2022,Senior,FT,Data Architect,208775,Remote,United States,M
+2022,Senior,FT,Data Architect,147800,Remote,United States,M
+2022,Senior,FT,Data Engineer,136994,Remote,United States,M
+2022,Senior,FT,Data Engineer,101570,Remote,United States,M
+2022,Senior,FT,Data Analyst,128875,Remote,United States,M
+2022,Senior,FT,Data Analyst,93700,Remote,United States,M
+2022,Executive,FT,Head of Machine Learning,79039,Hybrid,India,L
+2022,Senior,FT,Data Engineer,132320,Remote,United States,M
+2022,Entry,FT,Machine Learning Engineer,37300,Remote,United Kingdom,L
+2022,Senior,FT,Data Analyst,164000,In-person,United States,M
+2022,Senior,FT,Data Engineer,155000,Remote,United States,M
+2022,Mid,FT,Machine Learning Engineer,124333,In-person,United Kingdom,M
+2022,Mid,FT,Machine Learning Engineer,98158,In-person,United Kingdom,M
+2022,Mid,FT,AI Scientist,120000,In-person,United States,M
+2022,Senior,FT,Data Analyst,112900,Remote,United States,M
+2022,Senior,FT,Data Analyst,90320,Remote,United States,M
+2022,Senior,FT,Data Analytics Manager,145000,Remote,United States,M
+2022,Senior,FT,Data Analytics Manager,105400,Remote,United States,M
+2022,Mid,FT,Machine Learning Engineer,87932,Remote,Germany,M
+2022,Mid,FT,Data Engineer,117789,In-person,United Kingdom,M
+2022,Senior,FT,Data Scientist,215300,Remote,United States,L
+2022,Senior,FT,Data Scientist,158200,Remote,United States,L
+2022,Senior,FT,Data Engineer,209100,Remote,United States,L
+2022,Senior,FT,Data Engineer,154600,Remote,United States,L
+2022,Senior,FT,Data Analyst,115934,In-person,United States,M
+2022,Senior,FT,Data Analyst,81666,In-person,United States,M
+2022,Senior,FT,Data Engineer,175000,Remote,United States,M
+2022,Mid,FT,Data Engineer,98158,In-person,United Kingdom,M
+2022,Mid,FT,Data Analyst,58000,In-person,United States,S
+2022,Senior,FT,Data Engineer,183600,Remote,United States,L
+2022,Mid,FT,Data Analyst,52351,Remote,United Kingdom,M
+2022,Senior,FT,Data Scientist,180000,Remote,United States,M
+2022,Mid,FT,Data Scientist,71982,In-person,United Kingdom,M
+2022,Mid,FT,Data Scientist,45807,In-person,United Kingdom,M
+2022,Mid,FT,Data Engineer,65949,Remote,Greece,M
+2022,Mid,FT,Data Engineer,49461,Remote,Greece,M
+2022,Mid,FT,Data Engineer,78526,Remote,United Kingdom,M
+2022,Mid,FT,Data Engineer,58894,Remote,United Kingdom,M
+2022,Senior,FT,Data Scientist,260000,Remote,United States,M
+2022,Senior,FT,Data Science Engineer,60000,Remote,Mexico,L
+2022,Mid,FT,Data Engineer,63900,In-person,United States,M
+2022,Mid,FT,Machine Learning Scientist,160000,Remote,United States,L
+2022,Mid,FT,Machine Learning Scientist,112300,Remote,United States,L
+2022,Mid,FT,Data Science Manager,241000,Remote,United States,M
+2022,Mid,FT,Data Science Manager,159000,Remote,United States,M
+2022,Senior,FT,Data Scientist,180000,In-person,United States,M
+2022,Senior,FT,Data Scientist,80000,In-person,United States,M
+2022,Mid,FT,Data Engineer,82900,In-person,United States,M
+2022,Senior,FT,Data Engineer,100800,Remote,United States,L
+2022,Mid,FT,Data Engineer,49461,Remote,Spain,M
+2022,Senior,FT,Data Scientist,140400,In-person,United States,L
+2022,Mid,FT,Data Analyst,39263,Remote,United Kingdom,M
+2022,Mid,FT,Data Analyst,43966,Remote,Spain,M
+2022,Mid,FT,Data Analyst,32974,Remote,Spain,M
+2022,Mid,FT,Data Engineer,87932,Remote,Spain,M
+2022,Mid,FT,Data Engineer,76940,Remote,Spain,M
+2022,Mid,FT,Data Engineer,104702,Remote,United Kingdom,M
+2022,Mid,FT,Data Engineer,91614,Remote,United Kingdom,M
+2022,Mid,FT,Data Engineer,65949,Remote,Spain,M
+2022,Mid,FT,Data Engineer,87932,Remote,Greece,M
+2022,Senior,FT,Machine Learning Engineer,189650,In-person,United States,M
+2022,Senior,FT,Machine Learning Engineer,164996,In-person,United States,M
+2022,Mid,FT,Data Analyst,43966,Remote,Greece,M
+2022,Mid,FT,Data Analyst,32974,Remote,Greece,M
+2022,Mid,FT,Data Engineer,98158,Remote,United Kingdom,M
+2022,Mid,FT,Data Engineer,78526,Remote,United Kingdom,M
+2022,Senior,FT,Data Scientist,215300,In-person,United States,L
+2022,Mid,FT,Data Engineer,76940,Remote,Greece,M
+2022,Senior,FT,Data Engineer,209100,Remote,United States,L
+2022,Senior,FT,Data Engineer,154600,Remote,United States,L
+2022,Senior,FT,Data Engineer,180000,Remote,United States,M
+2022,Entry,FT,ML Engineer,21983,Remote,Portugal,L
+2022,Senior,FT,Data Engineer,80000,Remote,United States,M
+2022,Mid,FT,Machine Learning Developer,78791,Remote,Canada,M
+2022,Executive,FT,Director of Data Science,196979,Hybrid,Canada,L
+2022,Mid,FT,Machine Learning Engineer,120000,Remote,United States,S
+2022,Entry,FT,Computer Vision Engineer,125000,In-person,United States,M
+2022,Mid,FT,NLP Engineer,37236,Hybrid,United States,L
+2022,Senior,FT,Data Engineer,105000,Remote,United States,M
+2022,Senior,FT,Lead Machine Learning Engineer,87932,In-person,Germany,M
+2022,Mid,FT,Business Data Analyst,18442,Remote,India,M
+2022,Mid,FT,Data Scientist,31615,Remote,India,L
+2022,Mid,FT,Machine Learning Infrastructure Engineer,58255,Hybrid,Portugal,L
+2022,Entry,FT,Financial Data Analyst,100000,Hybrid,United States,L
+2022,Entry,FT,Data Scientist,18442,Remote,India,M
+2022,Senior,FT,Principal Data Scientist,162674,Remote,Germany,M
+2022,Entry,FT,Data Engineer,120000,Remote,United States,M
+2022,Senior,FT,Research Scientist,144000,Hybrid,United States,L
+2022,Senior,FT,Data Scientist,104890,Remote,United States,M
+2022,Senior,FT,Data Engineer,100000,Remote,United States,M
+2022,Senior,FT,Data Scientist,140000,Remote,United States,M
+2022,Mid,FT,Data Analyst,135000,Remote,United States,M
+2022,Mid,FT,Data Analyst,50000,Remote,United States,M
+2022,Senior,FT,Data Scientist,220000,Remote,United States,M
+2022,Senior,FT,Data Scientist,140000,Remote,United States,M
+2022,Mid,FT,Data Scientist,183228,In-person,United Kingdom,M
+2022,Mid,FT,Data Scientist,91614,In-person,United Kingdom,M
+2022,Senior,FT,Data Scientist,185100,Remote,United States,M
+2022,Senior,FT,Machine Learning Engineer,220000,Remote,United States,M
+2022,Mid,FT,Data Scientist,200000,Remote,United States,M
+2022,Mid,FT,Data Scientist,120000,Remote,United States,M
+2022,Senior,FT,Machine Learning Engineer,120000,Remote,United Arab Emirates,S
+2022,Senior,FT,Machine Learning Engineer,65000,Remote,United Arab Emirates,S
+2022,Executive,FT,Data Engineer,324000,Remote,United States,M
+2022,Executive,FT,Data Engineer,216000,Remote,United States,M
+2022,Senior,FT,Data Engineer,210000,Remote,United States,M
+2022,Senior,FT,Machine Learning Engineer,120000,Remote,United States,M
+2022,Senior,FT,Data Scientist,230000,Remote,United States,M
+2022,Senior,FT,Head of Data,200000,Remote,United States,M
+2022,Mid,FT,Principal Data Analyst,75000,Remote,Canada,S
+2022,Mid,FT,Data Scientist,35590,Remote,Poland,L
+2022,Senior,FT,Machine Learning Developer,78791,Remote,Canada,M
+2022,Senior,FT,Data Scientist,100000,Remote,United States,M
+2022,Mid,FT,Machine Learning Scientist,153000,Hybrid,United States,M
+2022,Entry,FT,Data Engineer,58035,Remote,Germany,M
+2022,Senior,FT,Data Scientist,165000,Remote,United States,M
+2022,Senior,FT,Research Scientist,93427,Hybrid,France,L
+2022,Entry,FT,Data Scientist,52396,Remote,Canada,L
+2022,Senior,FT,Machine Learning Engineer,62651,Remote,Netherlands,L
+2022,Mid,FT,Head of Data,32974,Remote,Estonia,S
+2022,Entry,FT,Data Scientist,40000,Remote,Malaysia,L
+2022,Mid,FT,Machine Learning Engineer,87425,Remote,Australia,L
+2022,Senior,FT,Data Engineer,115000,Remote,United States,M
+2022,Entry,FT,Data Scientist,86703,Hybrid,Australia,M
+2022,Mid,FT,Applied Machine Learning Scientist,75000,Remote,United States,L
+2022,Mid,FT,Research Scientist,64849,In-person,Austria,L
+2022,Entry,FT,Research Scientist,120000,Remote,United States,L
+2022,Mid,FT,Applied Data Scientist,157000,Remote,United States,L
+2022,Entry,FT,Computer Vision Software Engineer,150000,Remote,Australia,S
+2022,Mid,FT,Business Data Analyst,70912,Hybrid,Canada,L
+2022,Entry,FT,Data Engineer,65000,Remote,United States,S
+2022,Senior,FT,Machine Learning Engineer,71444,Remote,Ireland,S
+2022,Entry,FT,Data Analytics Engineer,20000,In-person,Pakistan,M
+2022,Mid,FT,Data Scientist,48000,Remote,United States,S
+2022,Senior,FT,Data Science Manager,152500,Remote,United States,M
+2022,Mid,FT,Data Engineer,68147,Remote,France,M
+2022,Mid,FT,Data Scientist,122346,In-person,Switzerland,L
+2022,Senior,FT,Applied Data Scientist,380000,Remote,United States,L
+2022,Mid,FT,Data Scientist,69336,Remote,Canada,M
+2022,Entry,FT,Computer Vision Engineer,10000,Remote,Luxembourg,M
+2022,Mid,FT,Data Analyst,20000,Remote,Greece,S
+2022,Senior,FT,Data Analytics Lead,405000,Remote,United States,L
+2022,Mid,FT,Data Scientist,135000,Remote,United States,L
+2022,Senior,FT,Applied Data Scientist,177000,Remote,United States,L
+2022,Mid,FT,Data Scientist,78000,Remote,United States,M
+2022,Senior,FT,Data Analyst,135000,Remote,United States,M
+2022,Senior,FT,Data Analyst,100000,Remote,United States,M
+2022,Senior,FT,Data Analyst,90320,Remote,United States,M
+2022,Mid,FT,Data Analyst,85000,In-person,Canada,M
+2022,Mid,FT,Data Analyst,75000,In-person,Canada,M
+2022,Senior,FT,Machine Learning Engineer,214000,Remote,United States,M
+2022,Senior,FT,Machine Learning Engineer,192600,Remote,United States,M
+2022,Senior,FT,Data Architect,266400,Remote,United States,M
+2022,Senior,FT,Data Architect,213120,Remote,United States,M
+2022,Senior,FT,Data Analyst,112900,Remote,United States,M
+2022,Senior,FT,Data Engineer,155000,Remote,United States,M
+2022,Mid,FT,Data Scientist,141300,In-person,United States,M
+2022,Mid,FT,Data Scientist,102100,In-person,United States,M
+2022,Senior,FT,Data Analyst,115934,Remote,United States,M
+2022,Senior,FT,Data Analyst,81666,Remote,United States,M
+2022,Mid,FT,Data Engineer,206699,In-person,United States,M
+2022,Mid,FT,Data Engineer,99100,In-person,United States,M
+2022,Senior,FT,Data Engineer,130000,Remote,United States,M
+2022,Senior,FT,Data Engineer,115000,Remote,United States,M
+2022,Senior,FT,Data Engineer,110500,Remote,United States,M
+2022,Senior,FT,Data Engineer,130000,Remote,United States,M
+2022,Senior,FT,Data Analyst,99050,Remote,United States,M
+2022,Senior,FT,Data Engineer,160000,Remote,United States,M
+2022,Senior,FT,Data Scientist,205300,In-person,United States,L
+2022,Senior,FT,Data Scientist,140400,In-person,United States,L
+2022,Senior,FT,Data Scientist,176000,Remote,United States,M
+2022,Senior,FT,Data Scientist,144000,Remote,United States,M
+2022,Senior,FT,Data Engineer,200100,Remote,United States,M
+2022,Senior,FT,Data Engineer,160000,Remote,United States,M
+2022,Senior,FT,Data Engineer,145000,Remote,United States,M
+2022,Senior,FT,Data Engineer,70500,In-person,United States,M
+2022,Senior,FT,Data Scientist,205300,In-person,United States,M
+2022,Senior,FT,Data Scientist,140400,In-person,United States,M
+2022,Senior,FT,Analytics Engineer,205300,In-person,United States,M
+2022,Senior,FT,Analytics Engineer,184700,In-person,United States,M
+2022,Senior,FT,Data Engineer,175100,Remote,United States,M
+2022,Senior,FT,Data Engineer,140250,Remote,United States,M
+2022,Senior,FT,Data Analyst,116150,Remote,United States,M
+2022,Senior,FT,Data Engineer,54000,In-person,United States,M
+2022,Senior,FT,Data Analyst,170000,Remote,United States,M
+2022,Mid,FT,Data Analyst,65438,In-person,United Kingdom,M
+2022,Senior,FT,Data Analyst,80000,Remote,United States,M
+2022,Senior,FT,Data Scientist,140000,Remote,United States,M
+2022,Senior,FT,Data Scientist,210000,Remote,United States,M
+2022,Senior,FT,Data Scientist,140000,Remote,United States,M
+2022,Senior,FT,Data Analyst,100000,Remote,United States,M
+2022,Senior,FT,Data Analyst,69000,Remote,United States,M
+2022,Senior,FT,Data Scientist,210000,Remote,United States,M
+2022,Senior,FT,Data Scientist,140000,Remote,United States,M
+2022,Senior,FT,Data Scientist,210000,Remote,United States,M
+2022,Senior,FT,Data Analyst,150075,Remote,United States,M
+2022,Senior,FT,Data Engineer,100000,Remote,United States,M
+2022,Senior,FT,Data Engineer,25000,Remote,United States,M
+2022,Senior,FT,Data Analyst,126500,Remote,United States,M
+2022,Senior,FT,Data Analyst,106260,Remote,United States,M
+2022,Senior,FT,Data Engineer,220110,Remote,United States,M
+2022,Senior,FT,Data Engineer,160080,Remote,United States,M
+2022,Senior,FT,Data Analyst,105000,Remote,United States,M
+2022,Senior,FT,Data Analyst,110925,Remote,United States,M
+2022,Mid,FT,Data Analyst,45807,In-person,United Kingdom,M
+2022,Senior,FT,Data Scientist,140000,Remote,United States,M
+2022,Senior,FT,Data Analyst,99000,In-person,United States,M
+2022,Senior,FT,Data Analyst,60000,Remote,United States,M
+2022,Senior,FT,Data Architect,192564,Remote,United States,M
+2022,Senior,FT,Data Architect,144854,Remote,United States,M
+2022,Senior,FT,Data Scientist,230000,Remote,United States,M
+2022,Senior,FT,Data Scientist,150000,Remote,United States,M
+2022,Senior,FT,Data Analytics Manager,150260,Remote,United States,M
+2022,Senior,FT,Data Analytics Manager,109280,Remote,United States,M
+2022,Senior,FT,Data Scientist,210000,Remote,United States,M
+2022,Senior,FT,Data Analyst,170000,Remote,United States,M
+2022,Mid,FT,Data Scientist,160000,Remote,United States,M
+2022,Mid,FT,Data Scientist,130000,Remote,United States,M
+2022,Entry,FT,Data Analyst,67000,In-person,Canada,M
+2022,Entry,FT,Data Analyst,52000,In-person,Canada,M
+2022,Senior,FT,Data Engineer,154000,Remote,United States,M
+2022,Senior,FT,Data Engineer,126000,Remote,United States,M
+2022,Senior,FT,Data Analyst,129000,In-person,United States,M
+2022,Senior,FT,Data Analyst,150000,Remote,United States,M
+2022,Mid,FT,AI Scientist,200000,Remote,United States,L
